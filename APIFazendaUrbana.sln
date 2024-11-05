@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIFazendaUrbana", "APIFazendaUrbana\APIFazendaUrbana.csproj", "{34AC5381-0020-47FB-B221-D5277ACC54F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AC5381-0020-47FB-B221-D5277ACC54F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AC5381-0020-47FB-B221-D5277ACC54F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AC5381-0020-47FB-B221-D5277ACC54F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AC5381-0020-47FB-B221-D5277ACC54F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0534486B-E297-4334-B62D-0F7941120676}
+	EndGlobalSection
+EndGlobal
